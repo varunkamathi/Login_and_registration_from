@@ -10,7 +10,7 @@
 <body>
     <div class = "container">
         <h1>Login</h1>
-        <form action="LoginServelt" method="post">
+        <form action="servelt" method="post">
             <label for="username">Username:</label>
             <input type="text" id="Username" name="Username">
             <label for="password">Password:</label>
